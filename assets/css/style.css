@@ -87,7 +87,6 @@ p {
 }
 
 /* DRYed up benefit- lead, -brand,and -cost */
-
 .benefit-lead,
 .benefit-brand,
 .benefit-cost {
@@ -96,7 +95,6 @@ p {
 }
 
 /* DRYed up benefit-lead h3, -brand h3, -cost h3  */
-
 .benefit-lead h3,
 .benefit-brand h3,
 .benefit-cost h3 {
@@ -105,8 +103,6 @@ p {
 
 }
 /* DRYed up benefit-lead img,-brand img, -cost img */
-
-
 .benefit-lead img,
 .benefit-brand img,
 .benefit-cost img {
@@ -116,30 +112,9 @@ p {
 }
 
 
-
-
-
-
-
-
-.search-engine-optimization {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-
-.online-reputation-management {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-
+/* DRYed up ul */
+.search-engine-optimization,
+.online-reputation-management,
 .social-media-marketing {
     margin-bottom: 20px;
     padding: 50px;
@@ -149,32 +124,25 @@ p {
     color: #ffffff;
 }
 
-.search-engine-optimization img {
-    max-height: 200px;
-}
 
-.online-reputation-management img {
-    max-height: 200px;
-}
-
+/* DRYed up ul img */
+.search-engine-optimization img,
+.online-reputation-management img,
 .social-media-marketing img {
     max-height: 200px;
 }
 
-.search-engine-optimization h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
 
-.online-reputation-management h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
+/* DRYed up ul h2 */
+.search-engine-optimization h2,
+.online-reputation-management h2,
 .social-media-marketing h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
+
+/* I based all my DRY process from lessons on Week 2 Activities */
+
 
 .footer {
     padding: 30px;
