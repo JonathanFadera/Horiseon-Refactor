@@ -86,35 +86,41 @@ p {
     background-color: #2589bd;
 }
 
-.benefit-lead {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
+/* DRYed up benefit- lead, -brand,and -cost */
 
-.benefit-brand {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-
+.benefit-lead,
+.benefit-brand,
 .benefit-cost {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
-.benefit-lead h3 {
-    margin-bottom: 10px;
-    text-align: center;
-}
+/* DRYed up benefit-lead h3, -brand h3, -cost h3  */
 
-.benefit-brand h3 {
-    margin-bottom: 10px;
-    text-align: center;
-}
-
+.benefit-lead h3,
+.benefit-brand h3,
 .benefit-cost h3 {
     margin-bottom: 10px;
     text-align: center;
+
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 .benefit-lead img {
     display: block;
