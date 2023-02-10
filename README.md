@@ -30,7 +30,7 @@ N/A
 
 ## How to Contribute
 
-If you created an application or package and would like other developers to contribute to it, you can include guidelines for how to do so. The [Contributor Covenant](https://www.contributor-covenant.org/) is an industry standard, but you can always write your own if you'd prefer.
+ If you want to contribute to my package, feel free to do so. Just follow this link [Contributor Covenant](https://www.contributor-covenant.org/) for guidelines.
 
 ## Tests
 
