@@ -2,8 +2,6 @@
 
 ## Description
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
-
 This homework was created for boot camp students so that we may apply what we have learned from Week 1 of the class. I learned how to deploy my repo at live URL, load application with no errors, and submit GitHub URL application.
 
 ## Installation
